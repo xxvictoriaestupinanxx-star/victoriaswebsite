@@ -6,7 +6,7 @@ const works = [
   { image: "2d.jpg", description: "" },
   { image: "2dwork1.jpg", description: "" },
   { image: "03bkpp.jpg", description: "" },
-  { image: "03nyc.jpg", description: "" },   // FIXED TYPO: O3nyc → 03nyc
+  { image: "03nyc.jpg", description: "" },   
   { image: "03nycc.jpg", description: "" },
   { image: "20anos.jpg", description: "" },
   { image: "2023.jpg", description: "" },
