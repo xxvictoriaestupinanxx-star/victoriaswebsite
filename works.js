@@ -8,19 +8,13 @@ const works = [
   { image: "images/2dwork1.jpg", description: "2D Work 1" },
   { image: "images/03bkpp.jpg", description: "03 BKPP" },
   { image: "images/O3nyc.jpg", description: "O3 NYC" },
-
-  // Uses Cyrillic file name exactly as you typed it:
   { image: "images/03nусс.jpg", description: "03 nусс" },
-
   { image: "images/20anos.jpg", description: "20 años" },
   { image: "images/2023.jpg", description: "2023 Work" },
   { image: "images/bksp.jpg", description: "BKSP" },
   { image: "images/chikibb.jpg", description: "Chikibb" },
   { image: "images/cuca.jpg", description: "Cuca" },
-
-  // FIXED → delnpals.jpg
   { image: "images/delnpals.jpg", description: "Deln Pals" },
-
   { image: "images/IMG_3410.JPG", description: "IMG 3410" },
   { image: "images/kelso.jpg", description: "Kelso" },
   { image: "images/kelsoo.JPEG", description: "Kelsoo" },
