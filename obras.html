@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Works | Victoria Estupiñan</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="works.js"></script>
+</head>
+<body>
+  <!-- Logo Section -->
+  <section class="logo">
+    <div class="logo-inner">
+      <h1>Victoria Estupiñan</h1>
+      <a href="index.html" class="home-icon">
+        <img src="icon.png" alt="Home">
+      </a>
+    </div>
+  </section>
+
+  <!-- Page Layout -->
+  <section class="homepage">
+    <div class="container">
+      <div class="left">
+        <nav>
+          <ul>
+            <li><a href="works.html">Works</a></li>
+            <li><a href="info.html">Information</a></li>
+            <li><a href="exhibitions.html">Exhibitions</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="right">
+        <!-- Only one gallery section -->
+        <section class="works-gallery">
+          <div class="gallery-container">
+            <button class="nav-button" id="prevBtn">&#10094;</button>
+
+            <div class="gallery-slide">
+              <img id="workImage" alt="Artwork">
+              <p id="workDescription"></p>
+            </div>
+
+            <button class="nav-button" id="nextBtn">&#10095;</button>
+          </div>
+        </section>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
